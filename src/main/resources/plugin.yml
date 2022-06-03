@@ -1,0 +1,4 @@
+name: BlockCooldown
+version: '${project.version}'
+main: me.saif.blockcooldown.BlockCooldown
+api-version: 1.13

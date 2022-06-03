@@ -1,0 +1,9 @@
+#in milliseconds
+#15 seconds is 15000
+block-place-cooldown-time: 3000
+crystal-explode-cooldown-time: 3000
+group-cooldown-time: 10000
+
+#<remaining> is replaced with the time remainig
+block-place-cooldown-message: '&4You cannot place a block for the next <remaining>.'
+crystal-explode-cooldown-message: '&4You cannot explode an end crystal for the next <remaining>.'
